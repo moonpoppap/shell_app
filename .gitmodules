@@ -1,0 +1,3 @@
+[submodule "lib/features/design_token"]
+	path = lib/features/design_token
+	url = https://github.com/moonpoppap/flutter_design_token.git
